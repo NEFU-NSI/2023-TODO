@@ -6,8 +6,6 @@
 
 ## CTF
 
-### Crypto
-
 ### Misc
 
 ### Pwn
