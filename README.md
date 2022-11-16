@@ -1,6 +1,6 @@
 # 2023-TODO
 
-## Infra
+## Infrastructure
 
 - [ ] 知识平台
 
