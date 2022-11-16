@@ -10,6 +10,10 @@
 
 ### Misc
 
-### 
+### Pwn
+
+### Reverse
+
+### Web
 
 ## Research
